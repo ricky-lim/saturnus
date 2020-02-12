@@ -1,8 +1,8 @@
 # saturnus
 
-understanding saturnus
- Test
+Binder available at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ricky-lim/saturnus/master)
 
+understanding saturnus
 
 
 ## License
